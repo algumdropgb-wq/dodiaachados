@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T18:18:43.389Z",
+ "atualizado": "2026-10-30T18:22:38.406Z",
  "slots": [
   {
    "slot": "2026-10-30 08:00",
@@ -16,7 +16,7 @@
   {
    "slot": "2026-10-30 15:00",
    "formato": "video",
-   "status": "refazendo",
+   "status": "aguardando",
    "atual": {
     "id": "a9d9d18e",
     "categoria": "Bebês",
