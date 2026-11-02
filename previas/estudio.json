@@ -1,10 +1,10 @@
 {
- "atualizado": "2026-11-02T13:17:49.156Z",
+ "atualizado": "2026-11-02T13:21:42.950Z",
  "slots": [
   {
    "slot": "2026-11-02 08:00",
    "formato": "foto",
-   "status": "aguardando",
+   "status": "postado",
    "atual": {
     "id": "e29277cb",
     "categoria": "Natal",
