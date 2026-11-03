@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-03T18:07:56.715Z",
+ "atualizado": "2026-11-03T18:15:23.487Z",
  "slots": [
   {
    "slot": "2026-11-03 08:00",
@@ -16,7 +16,7 @@
   {
    "slot": "2026-11-03 15:00",
    "formato": "video",
-   "status": "aguardando",
+   "status": "postado",
    "atual": {
     "id": "7e2f0665",
     "categoria": "Para Eles",
