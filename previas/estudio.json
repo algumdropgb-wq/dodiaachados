@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-04T18:03:29.777Z",
+ "atualizado": "2026-11-05T01:02:33.591Z",
  "slots": [
   {
    "slot": "2026-11-04 08:00",
@@ -28,7 +28,7 @@
   {
    "slot": "2026-11-04 22:00",
    "formato": "video",
-   "status": "aguardando",
+   "status": "postado",
    "atual": {
     "id": "8fa4f4fa",
     "categoria": "Casa e Decor",
