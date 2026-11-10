@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T11:45:27.505Z",
+ "atualizado": "2026-11-10T18:02:57.864Z",
  "slots": [
   {
    "slot": "2026-11-10 08:00",
@@ -16,7 +16,7 @@
   {
    "slot": "2026-11-10 15:00",
    "formato": "foto",
-   "status": "aguardando",
+   "status": "postado",
    "atual": {
     "id": "fcb558a9",
     "categoria": "Casa e Decor",
