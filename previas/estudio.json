@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T19:41:22.157Z",
+ "atualizado": "2026-11-10T01:02:14.745Z",
  "slots": [
   {
    "slot": "2026-11-09 15:00",
@@ -16,7 +16,7 @@
   {
    "slot": "2026-11-09 22:00",
    "formato": "foto",
-   "status": "aguardando",
+   "status": "postado",
    "atual": {
     "id": "20271b2d",
     "categoria": "Saúde",
