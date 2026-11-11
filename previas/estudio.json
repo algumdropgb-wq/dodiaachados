@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T18:11:04.472Z",
+ "atualizado": "2026-11-11T01:02:16.131Z",
  "slots": [
   {
    "slot": "2026-11-10 08:00",
@@ -28,7 +28,7 @@
   {
    "slot": "2026-11-10 22:00",
    "formato": "video",
-   "status": "aguardando",
+   "status": "postado",
    "atual": {
     "id": "5b0f823d",
     "categoria": "Natal",
