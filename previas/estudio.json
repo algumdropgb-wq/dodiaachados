@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T01:01:32.099Z",
+ "atualizado": "2026-11-12T01:08:13.854Z",
  "slots": [
   {
    "slot": "2026-11-11 08:00",
@@ -28,7 +28,7 @@
   {
    "slot": "2026-11-11 22:00",
    "formato": "foto",
-   "status": "aguardando",
+   "status": "postado",
    "atual": {
     "id": "0ce65b36",
     "categoria": "Bebês",
