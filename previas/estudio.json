@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T20:52:37.831Z",
+ "atualizado": "2026-11-15T20:53:54.500Z",
  "slots": [
   {
    "slot": "2026-11-15 08:00",
@@ -16,7 +16,7 @@
   {
    "slot": "2026-11-15 15:00",
    "formato": "foto",
-   "status": "aguardando",
+   "status": "perdido",
    "atual": {
     "id": "40102be5",
     "categoria": "Para Elas",
