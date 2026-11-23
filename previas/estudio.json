@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T01:46:44.708Z",
+ "atualizado": "2026-11-23T01:52:24.758Z",
  "slots": [
   {
    "slot": "2026-11-22 08:00",
@@ -28,7 +28,7 @@
   {
    "slot": "2026-11-22 22:00",
    "formato": "video",
-   "status": "aguardando",
+   "status": "postado",
    "atual": {
     "id": "87ba25c2",
     "categoria": "Eletrônicos",
