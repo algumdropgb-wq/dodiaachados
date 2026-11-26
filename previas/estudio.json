@@ -1,10 +1,10 @@
 {
- "atualizado": "2026-11-26T17:48:15.569Z",
+ "atualizado": "2026-11-26T17:53:20.367Z",
  "slots": [
   {
    "slot": "2026-11-26 12:00",
    "formato": "foto",
-   "status": "aguardando",
+   "status": "perdido",
    "atual": {
     "id": "7a5d054e",
     "categoria": "Eletrônicos",
